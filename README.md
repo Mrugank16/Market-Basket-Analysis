@@ -1,4 +1,4 @@
-# Market-Basket-Analysis
+# ProductBuddy
 
 In today's world, where more people are shopping and making transactions than ever before, it's become really important for businesses to understand their customers better and create effective marketing strategies. By finding hidden patterns in the data, businesses can compete more effectively, boost their profits, and build lasting relationships with their customers.
 
